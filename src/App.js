@@ -1,5 +1,6 @@
 import './App.css';
 import { Button } from './components/button/button';
+import {Ashish} from './components/reactheading/reactheading';
 import Card from './components/card/card';
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
       <h1>Welcome to react js  ....</h1>
       <Button/>
       <Card/>
+      <Ashish/>
     </div>
   );
 }
